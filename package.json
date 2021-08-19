@@ -1,0 +1,25 @@
+{
+  "name": "projecteuler100",
+  "version": "1.0.0",
+  "description": "ProjectEuler100",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihocsaszilard/ProjectEuler100.git"
+  },
+  "author": "mihocsaszilard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mihocsaszilard/ProjectEuler100/issues"
+  },
+  "homepage": "https://github.com/mihocsaszilard/ProjectEuler100#readme",
+  "dependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "babel-jest": "^27.0.6",
+    "jest": "^27.0.6"
+  }
+}
